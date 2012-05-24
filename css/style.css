@@ -1,0 +1,6 @@
+/* Just some base styles to help out */
+
+body {
+	font-family:'Helvetica', Arial, Verdana, sans-serif;
+	font-size: 62.5%; /* Allows scaling of em's for type - 1.2em = 12px */
+}
