@@ -1,0 +1,20 @@
+body {
+	background:#333;
+	color:white;
+	text-align:center;
+}
+.container, header {
+	width:960px;
+	margin:50px auto;
+	text-align:center;
+}
+header h1 {
+	background:url('../images/logo.png') no-repeat;
+	width:400px;
+	height:100px;
+	margin:0 auto;
+	text-indent:-9999px;
+}
+h1 {
+	font-size:1.8em;
+}
