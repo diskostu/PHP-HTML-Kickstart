@@ -2,7 +2,7 @@
 	include('init/base.php');
 ?>
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="de-DE">
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content="Awesome Description Here">
